@@ -1,3 +1,4 @@
+import { memo } from "react";
 import { Button } from "./Button";
 
 interface Genre {
@@ -12,7 +13,7 @@ interface Props {
   selectedGenreId: number
 }
 
-export function SideBar({genres, handleClickButton, selectedGenreId}:Props) {
+function SideBarComponent({genres, handleClickButton, selectedGenreId}:Props) {
   return (
     <nav className="sidebar">
         <span>Watch<p>Me</p></span>
@@ -32,3 +33,5 @@ export function SideBar({genres, handleClickButton, selectedGenreId}:Props) {
       </nav>
   )
 }
+
+export const SideBar = memo(SideBarComponent);
