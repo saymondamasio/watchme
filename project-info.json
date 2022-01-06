@@ -3,11 +3,11 @@
   "short_description": "Fique informado sobre filmes de diversos gêneros",
   "description": "Uma aplicação para ver informações sobre filmes. Nela você pode ver as classificações e a duração de cada filme.",
   "images": [
-    "https://raw.githubusercontent.com/saymondamasio/wathme/main/.github/screenshot-1.jpg",
-    "https://raw.githubusercontent.com/saymondamasio/wathme/main/.github/screenshot-2.jpg"
+    "https://raw.githubusercontent.com/saymondamasio/watchme/main/.github/screenshot-1.jpg",
+    "https://raw.githubusercontent.com/saymondamasio/watchme/main/.github/screenshot-2.jpg"
   ],
   "videos": [
-    "https://raw.githubusercontent.com/saymondamasio/whathme/main/.github/demonstration.mp4"
+    "https://raw.githubusercontent.com/saymondamasio/watchme/main/.github/demonstration.mp4"
   ],
   "techs": [
     {
