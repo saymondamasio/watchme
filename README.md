@@ -6,7 +6,7 @@
   Watchme
 </h3>
 
-<p align="center">Controle suas finanças de forma simples.</p>
+<p align="center">Fique informado sobre filmes de diversos gêneros.</p>
 
 https://user-images.githubusercontent.com/50559834/152695788-7ec4a1fe-f7bd-4857-b655-129c9ec3e83c.mp4
 
