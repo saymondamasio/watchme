@@ -8,6 +8,8 @@
 
 <p align="center">Controle suas finanças de forma simples.</p>
 
+https://user-images.githubusercontent.com/50559834/152695788-7ec4a1fe-f7bd-4857-b655-129c9ec3e83c.mp4
+
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/saymondamasio/watchme">
 
